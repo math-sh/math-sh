@@ -3,7 +3,7 @@
 ##
 
 - 💻 I’m currently working with full-stack development
-- 🖥 I’m currently learning Design Patterns and S.o.l.i.d
+- 🖥 I’m currently learning Design Patterns and S.O.L.I.D
 - 📫 How to reach me: matheus_n11@live.com
 - 😄 Pronouns: he/his
 
