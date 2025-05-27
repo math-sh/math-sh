@@ -1,52 +1,74 @@
-### Hi there, can you call me MathPraVcs 🤷‍♂👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=300&color=000000&text=Matheus%20Basilio"/>
+
+<div align="center">
+  <samp>
+    <b></b>
+    <br>
+    Eai Pessoal, me chamo Matheus Basilio ou mathpravcs e sou engenheiro de software!
+    <br>
+  </samp>
+</div>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmathpravcs&s=21&c=ffffff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta" /></p> 
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://imgur.com/lPOYRSO.gif" width="200">
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<details align="center">  
+  <summary>
+    <samp><b>More Info</b></samp>
+  </summary>
+  
+  <br>
+
+  <div align="center">
+    <img height=165 align="center" alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api/?username=mathpravcs&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka" />
+    <img height=165 align="center" alt="Top Language"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathpravcs&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight" />
+    <br><br>
+    <img align="center" alt="Profile Details"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathpravcs&theme=tokyonight" />
+    <br><br>
+    <img height=154 align="center" alt="Streak"
+      src="https://github-readme-streak-stats.herokuapp.com?user=mathpravcs&theme=tokyonight&card_width=885" />
+  </div>
+
+  <div align="center" style="display: inline_block"><br>
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  </div>
+
+<br>
 
 ##
 
-- 💻 I’m currently working with full-stack development
-- 🖥 I’m currently learning Design Patterns and S.O.L.I.D
-- 📫 How to reach me: matheus_n11@live.com
-- 😄 Pronouns: he/his
-
 <div align="center">
-  <a href="https://github.com/mathpravcs">
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathpravcs&layout=compact&langs_count=7&theme=dark"/>
+  <samp><b>Contact me:</b></samp>
+  <br><br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:matheus_n11@live.com)
+
 </div>
-<br>
-  <div style="display: inline_block">
-     <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Math-Nodejsl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="Math-Nodejsl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-      <img align="center" alt="Math-Nodejsl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-    <img align="center" alt="Math-Nodejsl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="Math-Nodejsl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-     <img align="center" alt="Math-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-       <img align="center" alt="Math-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
- 
-  <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-   <img align="center" alt="Math-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <img align="center" alt="Math-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-      <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
-          
-   
-   
-  
-  </div>
-  
-  ##
-  
-  
-  <div> 
-  
-  <a href="https://instagram.com/m_basilio10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 <a href = "mailto:matheus_n11@live.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-basilio-23a691163" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
-</div>
-  
+
+<div align=
