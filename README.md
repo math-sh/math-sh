@@ -40,8 +40,8 @@
     <img align="center" alt="Profile Details"
       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathpravcs&theme=tokyonight" />
     <br><br>
-    <img height=154 align="center" alt="Streak"
-      src="https://github-readme-streak-stats.herokuapp.com?user=mathpravcs&theme=tokyonight&card_width=885" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mathpravcs&theme=tokyonight-duo&hide_border=true&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
+    
   </div>
 
 <div align="center" style="display: inline-block"><br>
