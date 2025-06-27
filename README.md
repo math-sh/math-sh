@@ -3,7 +3,7 @@
   <samp>
     <b></b>
     <br>
-    Eai Pessoal, me chamo Matheus Basilio ou mathpravcs e sou Engenheiro de Software!
+    Eai Pessoal, me chamo Matheus Basilio e sou Engenheiro de Software!
     <br>
   </samp>
 </div>
