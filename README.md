@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmathpravcs&s=21&c=ffffff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmath-sh&s=21&c=ffffff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta" /></p> 
 </div>
 
 <br><br>
@@ -33,14 +33,14 @@
 
   <div align="center">
     <img height=165 align="center" alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=mathpravcs&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka" />
+      src="https://github-readme-stats.vercel.app/api/?username=math-sh&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka" />
     <img height=165 align="center" alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathpravcs&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-sh&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight" />
     <br><br>
     <img align="center" alt="Profile Details"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathpravcs&theme=tokyonight" />
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=math-sh&theme=tokyonight" />
     <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mathpravcs&theme=tokyonight-duo&hide_border=true&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=math-sh&theme=tokyonight-duo&hide_border=true&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
     
   </div>
 
