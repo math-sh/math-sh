@@ -41,9 +41,7 @@
     <img align="center" alt="Profile Details"
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=math-sh&theme=tokyonight" />
     <br><br>
-   <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=math-sh&theme=dark-minimalist" alt="GitHub Streak" />
-</a>
+
 
   </div>
 
